@@ -49,8 +49,8 @@ const Navbar = () => {
                                     <li><Link to="/browse">Browse</Link></li>
 {/*                                     <li><Link to="/">Nuera AI</Link></li> */}
                                     <li>
-  <Link to={`/webview?url=${encodeURIComponent("https://jnxuan-jh-resume-screening.hf.space/?embed=true&embed_options=show_toolbar#41183b1a")}`}>
-    Scanalyzer
+  <Link to={`/webview?url=${encodeURIComponent("https://jnxuan-neuraai.hf.space")}`}>
+    Neura AI
   </Link>
 </li>
                                     <li>
