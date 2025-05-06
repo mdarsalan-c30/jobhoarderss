@@ -19,7 +19,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.use(cookieParser());
 const corsOptions = {
-    origin:'https://jobhoarder-ptk4.onrender.com',
+    origin:'https://jobhoarderss.onrender.com',
     credentials:true
 }
 
