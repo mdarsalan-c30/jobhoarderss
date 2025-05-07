@@ -10,7 +10,12 @@ const category = [
     "Cloud Engineer",
     "Data Science",
     "Graphic Designer",
-    "FullStack Developer"
+    "FullStack Developer",
+    "Social Media Manager",
+    "Branding",
+    "Human Resource"
+    "AI Expert",
+    "Prompt Engineer"
 ]
 
 const CategoryCarousel = () => {
