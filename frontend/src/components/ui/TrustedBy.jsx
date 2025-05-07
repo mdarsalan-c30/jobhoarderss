@@ -1,5 +1,5 @@
 import React from 'react';
-import { TrustedBy } from '../util/trustedby;
+import { TrustedBy } from '../util/trustedby';
 
 const TrustedBy = () => {
   return (
