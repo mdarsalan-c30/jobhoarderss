@@ -13,7 +13,7 @@ const category = [
     "FullStack Developer",
     "Social Media Manager",
     "Branding",
-    "Human Resource"
+    "Human Resource",
     "AI Expert",
     "Prompt Engineer"
 ]
